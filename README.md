@@ -3,17 +3,17 @@
 # Hello I'm Mon Hh✨
 living in the Atlantic Ocean 🌊 of Northwest Spain
 
-##### I work as
-1. **Full Stack Javascript Developer** 
-2. **Electronic Developer**
+I work as:
+- **Full Stack Javascript Developer** 
+- **Electronic Developer**
 
 I'm also a Sound Engineer and Video Editor
 
 I make **Generative Audio and Video** and design digital instruments with these tools:
-1. max/msp
-2. puredata
-3. processing
-4. others ....
+- max/msp
+- puredata
+- processing
+- others ....
 
 <!--
 **monhh/monhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
