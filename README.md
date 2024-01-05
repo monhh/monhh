@@ -8,7 +8,7 @@ I work as:
 
 I'm also a Sound Engineer and Video Editor
 
-I make **Generative Audio and Video** and design digital instruments with these tools:
+I make **Generative Audio and Video** designing digital instruments with these tools:
 - max/msp
 - puredata
 - processing
