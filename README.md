@@ -3,7 +3,7 @@
 living in the Atlantic Ocean 🌊 of Northwest Spain
 
 I work as:
-- **Full Stack Javascript Developer** 
+- **Web Developer** 
 - **Electronic Developer**
 
 I'm also a Sound Engineer and Video Editor
