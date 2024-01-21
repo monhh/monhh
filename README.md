@@ -1,6 +1,6 @@
 
 # Hello I'm Mon Hh✨
-living in the Atlantic Ocean 🌊 of Northwest Spain
+living in the Atlantic Ocean of Northwest Spain 🌊 
 
 I work as:
 - **Web Developer** 
