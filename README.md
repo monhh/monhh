@@ -1,18 +1,13 @@
 
-# Hello I'm Mon Hh✨
-living in the Atlantic Ocean of Northwest Spain 🌊 
+# Hello I'm Mon P.Tell
 
-I work as:
-- **Web Developer** 
-- **Electronic Developer**
 
-I'm also a Sound Engineer and Video Editor
+** work as a web and electronic developer 
+** and design digital tools to make generative audiovisuals
 
-making **Generative Audio and Video** designing digital instruments with these tools:
-- max/msp
-- processing
-- puredata
-- others ....
+** full stack javascript: node.js, react, css rwd, sql, mongodb, otherr ...
+
+** audiovisuals tools: max/msp, processing, puredata, others ....
 
 <!--
 **monhh/monhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
