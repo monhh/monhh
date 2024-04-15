@@ -2,12 +2,12 @@
 # Hello I'm Mon P.Tell
 
 
-** work as a web and electronic developer 
-** and design digital tools to make generative audiovisuals
+work as a web and electronic developer 
+and design digital tools to make generative audiovisuals
 
-** full stack javascript: node.js, react, css rwd, sql, mongodb, otherr ...
+full stack javascript: node.js, react, css rwd, sql, mongodb, otherr ...
 
-** audiovisuals tools: max/msp, processing, puredata, others ....
+audiovisuals tools: max/msp, processing, puredata, others ....
 
 <!--
 **monhh/monhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
