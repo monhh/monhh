@@ -3,10 +3,10 @@
 
 
 work as a web and electronic developer 
-and design digital tools to make generative audiovisuals
 
 full stack javascript: node.js, react, css rwd, sql, mongodb, others ...
 
+design digital tools to make generative audiovisuals
 audiovisuals tools: max/msp, processing, puredata, others ....
 
 <!--
