@@ -3,11 +3,10 @@
 
 
 work as a web and electronic developer 
-
 full stack javascript: node.js, react, css rwd, sql, mongodb, others ...
 
-design digital tools to make generative audiovisuals
-audiovisuals tools: max/msp, processing, puredata, others ....
+design digital tools to make generative audiovisuals audiovisuals 
+tools: max/msp, processing, puredata, others ....
 
 <!--
 **monhh/monhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
