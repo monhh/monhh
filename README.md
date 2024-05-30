@@ -2,7 +2,7 @@
 # Hello I'm Mon P.Tell
 
 
-work as a web and electronic developer 
+web and electronic developer 
 
 full stack javascript: node.js, react, css rwd, sql, mongodb, others ...
 
