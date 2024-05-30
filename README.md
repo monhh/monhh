@@ -4,9 +4,9 @@
 
 web and electronic developer 
 
-full stack javascript: node.js, react, css rwd, sql, mongodb, others ...
+full stack javascript: node.js, react, css-rwd, sql, mongodb, others ...
 
-design digital tools to make generative audiovisuals audiovisuals 
+design digital tools to make generative audiovisuals  
 
 tools: max/msp, processing, puredata, others ....
 
