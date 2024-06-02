@@ -1,5 +1,5 @@
 
-# Hello I'm Mon P.Tell
+# Hello I'm Mon P. Tell
 
 
 web and electronic developer 
