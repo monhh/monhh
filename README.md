@@ -4,11 +4,9 @@
 
 web and electronic developer 
 
-full stack javascript: node.js, react, css-rwd, sql, mongodb, others ...
+full stack javascript with: node, react, sql, mongo, css-rwd, tailwind, figma, web audio, ...
 
-design digital tools to make generative audiovisuals  
-
-tools: max/msp, processing, puredata, others ....
+design digital tools to make generative audiovisuals with: max/msp, processing, puredata, ....
 
 <!--
 **monhh/monhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
