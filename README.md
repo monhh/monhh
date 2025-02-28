@@ -1,12 +1,10 @@
 
-# Hello I'm Mon P. Tell
+# Hi, I'm Mon P. Tell
 
 
-web and electronic developer 
+full stack javascript developer: css-rwd, tailwind, react, node, sql, mongo, web audio, ...
 
-full stack javascript with: node, react, sql, mongo, css-rwd, tailwind, figma, web audio, ...
-
-design digital tools to make generative audiovisuals with: max/msp, processing, puredata, ....
+design digital tools for generative audiovisuals: max/msp, processing, puredata, ....
 
 <!--
 **monhh/monhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
