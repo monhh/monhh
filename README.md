@@ -1,8 +1,7 @@
 
 ## Hi, I'm Mon P. Tell
 
-
-full stack javascript developer: css-rwd, tailwind, react, node, sql, mongo, web audio, ...
+Front-end Developer | UX/UI | Full Stack Javascript | CSS RWD | Tailwind | React | Node | SQL | Mongo | Web Audio | ...
 
 design digital tools for generative audiovisuals: max/msp, processing, puredata, ....
 
